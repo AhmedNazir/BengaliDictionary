@@ -59,7 +59,7 @@ There is also a simple Java implementation of [Bengali Spell Checker](https://gi
 </tr>
 <tr>
 <td><a href="https://github.com/MinhasKamal/BengaliDictionary/raw/download/BengaliDictionary.rar">BengaliDictionary.rar</a></td>
-<td>ZSON</td>
+<td>JSON</td>
 <td><img src="https://user-images.githubusercontent.com/5456665/33064812-2c868750-ced1-11e7-85d4-0b2e39e342d8.PNG" height="100" width=auto title="bengali word translation preview" /></td>
 </tr>
 </table>
